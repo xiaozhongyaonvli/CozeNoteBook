@@ -18,7 +18,7 @@ ai应用开发平台
 
 完成搭建工作流并加入到智能体中
 
-![image-20250714135825468](image\imageTask1_2.png)
+![image-20250714135825468](image/imageTask1_2.png)
 
 添加知识库到智能体平台中
 
